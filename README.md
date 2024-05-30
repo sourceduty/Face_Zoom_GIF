@@ -9,7 +9,7 @@ The core functionality of the program revolves around face detection and the cre
 After generating the frames for the zoom-in effect, the program saves them as a GIF file in a directory named "GIFs". The program ensures that this directory exists and creates it if necessary. The generated GIF maintains the original size of the loaded image, providing a clear and detailed zoom-in on the face. Throughout the process, the application updates the user with progress messages displayed in the designated black area of the GUI. These messages inform the user about the current step of the processing and notify them once the GIF has been successfully saved. This user-friendly feedback mechanism enhances the overall usability and ensures that the user is aware of the program's status at all times.
 
 #
-### Related Images
+### Related Links
 
 [Sliced GIF Maker](https://github.com/sourceduty/Sliced_GIF_Maker)
 
